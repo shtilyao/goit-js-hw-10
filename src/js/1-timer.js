@@ -53,7 +53,6 @@ function startTimer() {
             clearInterval(timerId);
 
             input.disabled = false;
-            startBtn.disabled = false;
 
             return;
         }
